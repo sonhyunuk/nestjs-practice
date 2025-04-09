@@ -1,4 +1,4 @@
-import { AfterInsert, AfterRemove, AfterUpdate,  Entity, Column, PrimaryGeneratedColumn, BeforeRemove } from "typeorm";
+import { AfterInsert, AfterUpdate,  Entity, Column, PrimaryGeneratedColumn, BeforeRemove } from "typeorm";
 
 @Entity()
 export class User {
