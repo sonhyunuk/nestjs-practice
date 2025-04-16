@@ -32,3 +32,6 @@ content-type: application/json
 {
   "password": "aaaaa"
 }
+
+### who ami
+GET http://localhost:3000/auth/whoami
